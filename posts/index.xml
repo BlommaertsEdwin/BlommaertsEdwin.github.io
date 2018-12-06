@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EdwinBlommaerts.io</title>
+    <link>https://edwinblommaerts.io/posts/</link>
+    <description>Recent content in Posts on EdwinBlommaerts.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2015 00:27:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://edwinblommaerts.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The first blog post</title>
+      <link>https://edwinblommaerts.io/posts/my-first-post/</link>
+      <pubDate>Sun, 25 Oct 2015 00:27:35 +0000</pubDate>
+      
+      <guid>https://edwinblommaerts.io/posts/my-first-post/</guid>
+      <description>This is the first blog post of many to come. This will be my personal space on the vast internet. Most likely I will be writing about programming and board games.
+My interest in board games started when I was young and for SinterKlaas I asked my parents for a copy of Hero Quest. I remember coming home and seeing the box, I tore it open and pushed the cardboard prints out of the frames, twisted and turned the models to get them out of the plastic sprues and assembled the furniture and doors.</description>
+    </item>
+    
+  </channel>
+</rss>
