@@ -1,0 +1,11 @@
+.nested-img-left {
+    clear: left;
+    float: left;
+    width: 50%;
+}
+
+.nested-img-right {
+    clear: right;
+    float: right;
+    width: 50%;
+}
