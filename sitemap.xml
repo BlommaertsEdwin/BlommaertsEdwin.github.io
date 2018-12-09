@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//edwinblommaerts.io/posts/dd-the-why-and-the-what/</loc>
+    <lastmod>2018-12-08T14:14:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//edwinblommaerts.io/posts/letters-from-whitechappel-boardgame/</loc>
     <lastmod>2018-12-05T23:58:00+00:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>//edwinblommaerts.io/</loc>
-    <lastmod>2018-12-05T23:58:00+00:00</lastmod>
+    <lastmod>2018-12-08T14:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//edwinblommaerts.io/posts/</loc>
-    <lastmod>2018-12-05T23:58:00+00:00</lastmod>
+    <lastmod>2018-12-08T14:14:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
