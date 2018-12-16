@@ -4,8 +4,34 @@
     width: 50%;
 }
 
+.nested-img-left-iframe {
+    clear: left;
+    float: left;
+    margin: 10px;
+}
+
+.nested-img-right-iframe {
+    clear: right;
+    float: right;
+    margin: 10px;
+}
+
+
 .nested-img-right {
     clear: right;
     float: right;
     width: 50%;
+}
+
+.nested-img img {
+    width: auto;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 25%;
+    padding: 5px;
 }
