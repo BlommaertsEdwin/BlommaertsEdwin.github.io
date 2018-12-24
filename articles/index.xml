@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EdwinBlommaerts.io</title>
-    <link>//edwinblommaerts.io/</link>
-    <description>Recent content on EdwinBlommaerts.io</description>
+    <title>Articles on EdwinBlommaerts.io</title>
+    <link>//edwinblommaerts.io/articles/</link>
+    <description>Recent content in Articles on EdwinBlommaerts.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 22 Dec 2018 01:02:40 +0000</lastBuildDate>
     
-	<atom:link href="//edwinblommaerts.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//edwinblommaerts.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
