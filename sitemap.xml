@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pages.github.com/user/project/</loc>
+    <loc>/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pages.github.com/user/project/posts/humble-beginings/</loc>
+    <loc>/posts/humble-beginings/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pages.github.com/user/project/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pages.github.com/user/project/about/about/</loc>
+    <loc>/about/about/</loc>
     <lastmod>2019-11-08T01:24:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pages.github.com/user/project/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-11-08T01:24:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pages.github.com/user/project/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://pages.github.com/user/project/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
