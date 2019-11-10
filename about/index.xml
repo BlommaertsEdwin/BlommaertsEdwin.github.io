@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Blommaerts Edwin</title>
-    <link>blommaertsedwin.io/about/</link>
+    <link>https://pages.github.com/user/project/about/</link>
     <description>Recent content in Abouts on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 08 Nov 2019 01:24:15 +0000</lastBuildDate>
     
-	<atom:link href="blommaertsedwin.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pages.github.com/user/project/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>blommaertsedwin.io/about/about/</link>
+      <link>https://pages.github.com/user/project/about/about/</link>
       <pubDate>Fri, 08 Nov 2019 01:24:15 +0000</pubDate>
       
-      <guid>blommaertsedwin.io/about/about/</guid>
+      <guid>https://pages.github.com/user/project/about/about/</guid>
       <description></description>
     </item>
     
