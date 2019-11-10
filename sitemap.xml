@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>edwin.blommaerts.io/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>edwin.blommaerts.io/posts/humble-beginings/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>edwin.blommaerts.io/posts/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>edwin.blommaerts.io/about/about/</loc>
+    <lastmod>2019-11-08T01:24:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>edwin.blommaerts.io/about/</loc>
+    <lastmod>2019-11-08T01:24:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>edwin.blommaerts.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>edwin.blommaerts.io/tags/</loc>
+  </url>
+  
+</urlset>
