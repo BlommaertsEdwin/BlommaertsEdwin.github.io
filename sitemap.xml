@@ -13,7 +13,32 @@
   </url>
   
   <url>
+    <loc>/tags/oca/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/odoo-version-13/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/peopleperhour/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tdd/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
@@ -29,10 +54,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
