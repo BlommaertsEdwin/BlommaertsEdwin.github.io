@@ -3,57 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>about/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/humble-beginings/</loc>
+    <loc>about/posts/humble-beginings/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/oca/</loc>
+    <loc>about/tags/oca/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/odoo-version-13/</loc>
+    <loc>about/tags/odoo-version-13/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/peopleperhour/</loc>
+    <loc>about/tags/peopleperhour/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>about/posts/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>about/tags/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tdd/</loc>
+    <loc>about/tags/tdd/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/about/</loc>
-    <lastmod>2019-11-08T01:24:15+00:00</lastmod>
+    <loc>about/categories/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-11-08T01:24:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>about/about/</loc>
   </url>
   
 </urlset>

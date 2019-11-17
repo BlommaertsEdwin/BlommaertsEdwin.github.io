@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blommaerts Edwin</title>
-    <link>/tags/</link>
+    <link>about/tags/</link>
     <description>Recent content in Tags on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 08 Nov 2019 13:18:23 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="about/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oca</title>
-      <link>/tags/oca/</link>
+      <link>about/tags/oca/</link>
       <pubDate>Fri, 08 Nov 2019 13:18:23 +0000</pubDate>
       
-      <guid>/tags/oca/</guid>
+      <guid>about/tags/oca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Odoo Version 13</title>
-      <link>/tags/odoo-version-13/</link>
+      <link>about/tags/odoo-version-13/</link>
       <pubDate>Fri, 08 Nov 2019 13:18:23 +0000</pubDate>
       
-      <guid>/tags/odoo-version-13/</guid>
+      <guid>about/tags/odoo-version-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PeoplePerHour</title>
-      <link>/tags/peopleperhour/</link>
+      <link>about/tags/peopleperhour/</link>
       <pubDate>Fri, 08 Nov 2019 13:18:23 +0000</pubDate>
       
-      <guid>/tags/peopleperhour/</guid>
+      <guid>about/tags/peopleperhour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TDD</title>
-      <link>/tags/tdd/</link>
+      <link>about/tags/tdd/</link>
       <pubDate>Fri, 08 Nov 2019 13:18:23 +0000</pubDate>
       
-      <guid>/tags/tdd/</guid>
+      <guid>about/tags/tdd/</guid>
       <description></description>
     </item>
     
