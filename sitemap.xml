@@ -4,7 +4,42 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gantt-chart/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gohugo/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/imagemagick/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/productive-day/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trello/</loc>
+    <lastmod>2019-11-18T00:52:42+00:00</lastmod>
   </url>
   
   <url>
@@ -28,26 +63,12 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-08T13:18:23+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/tdd/</loc>
     <lastmod>2019-11-08T13:18:23+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
   </url>
   
 </urlset>

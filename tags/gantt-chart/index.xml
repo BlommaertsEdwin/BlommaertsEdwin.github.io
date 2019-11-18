@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blommaerts Edwin</title>
-    <link>/</link>
-    <description>Recent content on Blommaerts Edwin</description>
+    <title>Gantt chart on Blommaerts Edwin</title>
+    <link>/tags/gantt-chart/</link>
+    <description>Recent content in Gantt chart on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 18 Nov 2019 00:52:42 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/gantt-chart/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/productive-day/</guid>
       <description>Today was a very productive day, I managed to map all the development tasks for a project into Trello. At first I wanted to add custom fields to the Trello task card but I found a plugin that allowed me to couple a Gantt chart to the board. By doing this it added many more fields that I would have needed. Like for example, start-date, end-date, duration, previous task, following task, etc&amp;hellip; This allowed me to set the duration of each task and sequence in which I would work on them.</description>
-    </item>
-    
-    <item>
-      <title>Humble Beginnings</title>
-      <link>/posts/humble-beginings/</link>
-      <pubDate>Fri, 08 Nov 2019 13:18:23 +0000</pubDate>
-      
-      <guid>/posts/humble-beginings/</guid>
-      <description>Walk before we run Lets venture out in the world of Freelancing. It&amp;rsquo;s been two weeks since I dedicated some time to working on a Freelance project. So far I&amp;rsquo;ve had a very positive experience. Now, every time I quote a piece of work or when I&amp;rsquo;m coding, I can see how I can improve. From improving code quality, to better pricing and customer service. I specialise in coding modules for Odoo and from what I can see there is already a big market out there.</description>
     </item>
     
   </channel>
