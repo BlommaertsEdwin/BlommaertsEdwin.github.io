@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strava on Blommaerts Edwin</title>
+    <link>/tags/strava/</link>
+    <description>Recent content in strava on Blommaerts Edwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 29 Nov 2019 00:03:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/strava/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;ll be back, I&#39;m baaaack! </title>
+      <link>/posts/back-again/</link>
+      <pubDate>Fri, 29 Nov 2019 00:03:05 +0000</pubDate>
+      
+      <guid>/posts/back-again/</guid>
+      <description>Here we go again After two weeks and some change I&amp;rsquo;ve picked up running again. I feel that actually did my body a wealth of good. It&amp;rsquo;s hard to fit in the running around a very busy family and work life but I have to do this. Since I picked up running I feel better mentally and physically. It&amp;rsquo;s so easy to slide back into an old routine, especially when time is so precious and needs to be spent well if you have a lot on.</description>
+    </item>
+    
+  </channel>
+</rss>
