@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 29 Nov 2019 00:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 14:11:05 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>marathon</title>
+      <link>/tags/marathon/</link>
+      <pubDate>Fri, 27 Dec 2019 14:11:05 +0000</pubDate>
+      
+      <guid>/tags/marathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>running</title>
       <link>/tags/running/</link>
-      <pubDate>Fri, 29 Nov 2019 00:03:05 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2019 14:11:05 +0000</pubDate>
       
       <guid>/tags/running/</guid>
       <description></description>

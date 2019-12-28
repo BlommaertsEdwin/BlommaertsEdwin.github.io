@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>running on Blommaerts Edwin</title>
-    <link>/tags/running/</link>
-    <description>Recent content in running on Blommaerts Edwin</description>
+    <title>marathon on Blommaerts Edwin</title>
+    <link>/tags/marathon/</link>
+    <description>Recent content in marathon on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 27 Dec 2019 14:11:05 +0000</lastBuildDate>
     
-	<atom:link href="/tags/running/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/marathon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/a-whole-lot-going-on/</guid>
       <description>Good Intentions&amp;hellip; So, as you know, I intended to update this blog each training day with the progress of my running. As you can see, that didn&amp;rsquo;t work out as well as expected. I found that I did not have the time to do these updates. There&amp;rsquo;s always something else more important that comes along, work, more work, too tired, family. So I&amp;rsquo;ve resided to try and give a weekly update of how my running is going, especially now that I&amp;rsquo;ve signed up for the UK Boston Marathon.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be back, I&#39;m baaaack! </title>
-      <link>/posts/back-again/</link>
-      <pubDate>Fri, 29 Nov 2019 00:03:05 +0000</pubDate>
-      
-      <guid>/posts/back-again/</guid>
-      <description>Here we go again After two weeks and some change I&amp;rsquo;ve picked up running again. I feel that actually did my body a wealth of good. It&amp;rsquo;s hard to fit in the running around a very busy family and work life but I have to do this. Since I picked up running I feel better mentally and physically. It&amp;rsquo;s so easy to slide back into an old routine, especially when time is so precious and needs to be spent well if you have a lot on.</description>
     </item>
     
   </channel>
