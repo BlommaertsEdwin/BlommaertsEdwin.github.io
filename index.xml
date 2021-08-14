@@ -6,10 +6,37 @@
     <description>Recent content on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Aug 2021 00:27:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Aug 2021 03:27:23 +0100</lastBuildDate>
     
 	<atom:link href="http://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact_me</title>
+      <link>http://blommaertsedwin.io/contact/contact_me/</link>
+      <pubDate>Sat, 14 Aug 2021 03:27:23 +0100</pubDate>
+      
+      <guid>http://blommaertsedwin.io/contact/contact_me/</guid>
+      <description>WIP</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://blommaertsedwin.io/about/about/</link>
+      <pubDate>Sat, 14 Aug 2021 03:26:04 +0100</pubDate>
+      
+      <guid>http://blommaertsedwin.io/about/about/</guid>
+      <description>WIP</description>
+    </item>
+    
+    <item>
+      <title>Dungeon Delver</title>
+      <link>http://blommaertsedwin.io/projects/dungeon_delver/</link>
+      <pubDate>Sat, 14 Aug 2021 03:10:56 +0100</pubDate>
+      
+      <guid>http://blommaertsedwin.io/projects/dungeon_delver/</guid>
+      <description>WIP</description>
+    </item>
     
     <item>
       <title>My first post</title>
