@@ -8,32 +8,30 @@
     <meta name="color-scheme" content="light dark">
 
     
-      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com; prefetch-src 'self'; connect-src 'self' https://www.google-analytics.com;">
-
-    
 
     <meta name="author" content="Blommaerts Edwin">
-    <meta name="description" content="Well, it&#39;s my first post">
+    <meta name="description" content="Small post about figuring out some things while working with Godot, GUT and github actions.">
     <meta name="keywords" content="blog,developer,personal">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="My first post"/>
-<meta name="twitter:description" content="Well, it&#39;s my first post"/>
+<meta name="twitter:title" content="G(odot) U(nit) T(esting) and Github Actions"/>
+<meta name="twitter:description" content="Small post about figuring out some things while working with Godot, GUT and github actions."/>
 
-    <meta property="og:title" content="My first post" />
-<meta property="og:description" content="Well, it&#39;s my first post" />
+    <meta property="og:title" content="G(odot) U(nit) T(esting) and Github Actions" />
+<meta property="og:description" content="Small post about figuring out some things while working with Godot, GUT and github actions." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://blommaertsedwin.io/posts/my-first-post/" />
-<meta property="article:published_time" content="2021-08-14T00:27:51+01:00" />
-<meta property="article:modified_time" content="2021-08-14T00:27:51+01:00" />
+<meta property="og:url" content="https://blommaertsedwin.io/posts/my-first-post/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-08-26T00:27:51+01:00" />
+<meta property="article:modified_time" content="2021-08-26T00:27:51+01:00" />
+
 
 
     <title>
-  My first post · Blommaerts Edwin
+  G(odot) U(nit) T(esting) and Github Actions · Blommaerts Edwin
 </title>
 
     
-      <link rel="canonical" href="http://blommaertsedwin.io/posts/my-first-post/">
+      <link rel="canonical" href="https://blommaertsedwin.io/posts/my-first-post/">
     
 
     <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -66,7 +64,7 @@
 
     
 
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.87.0" />
   </head>
 
   
@@ -129,8 +127,8 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://blommaertsedwin.io/posts/my-first-post/">
-              My first post
+            <a class="title-link" href="https://blommaertsedwin.io/posts/my-first-post/">
+              G(odot) U(nit) T(esting) and Github Actions
             </a>
           </h1>
         </div>
@@ -138,26 +136,77 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='2021-08-14T00:27:51&#43;01:00'>
-                August 14, 2021
+              <time datetime='2021-08-26T00:27:51&#43;01:00'>
+                August 26, 2021
               </time>
             </span>
             <span class="reading-time">
               <i class="fa fa-clock-o" aria-hidden="true"></i>
-              0-minute read
+              One-minute read
             </span>
           </div>
           <div class="authors">
     <i class="fa fa-user" aria-hidden="true"></i>
       <a href="/authors/me/">me</a></div>
           
-          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/godot/">godot</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/gut/">gut</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/unittesting/">unittesting</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/github-action/">github action</a>
+    </span></div>
+
         </div>
       </header>
 
       <div>
         
-        
+        <p>I had previously already added unit tests to my game. There&rsquo;s already a fair few youtube videos and guides out there describing how to do this. What I wasn&rsquo;t aware of is that it is actually particularly easy to setup godot automated testing (GUT) upon pushing code into github using github actions.</p>
+<ul>
+<li>Log into you github account and create a new action workflow.</li>
+</ul>
+<p><img src="../../images/GithubWorkflowsStepOne.JPG" alt="Step One Github workflow godot unit testing"></p>
+<ul>
+<li>
+<p>Then add the following at the bottom of the blank.yml file.</p>
+<pre><code>  - name: godot-tester
+  # You may pin to the exact commit or the version.
+  # uses: croconut/godot-tester@8138293929bde928c05dde776b66ca50661ff4ee
+  uses: croconut/godot-tester@v2.1a
+  with:
+    # Your Godot version number e.g. 3.2.2
+    version: 3.2.2
+    # Give relative path to your project.godot, if not in top level of repo,
+    # the test runner will search here for your /test directory which 
+    # contains the unit tests.
+    path: ./
+    # Test against mono version? Default: false
+    is-mono: false
+    # How long to spend on importing assets, don't set if testing is not required
+    import-time: 1
+    # How long the test should be run before it's timed out and fails
+    test-timeout: 300
+    # Decimal value for minimum passing score e.g. if 88% of tests pass and minimum-pass is 0.8, then action passes.
+    minimum-pass: 0.99
+</code></pre>
+</li>
+<li>
+<p>Then commit the file and check the action menu.</p>
+</li>
+</ul>
+<p><img src="../../images/GithubWorkflowsStepTwo.JPG" alt="Step Two Github workflow godot unit testing"></p>
+
       </div>
 
 
@@ -220,7 +269,7 @@
 
     
       
-      <script src="/js/coder.min.a350362441276ec5c1671926420497bb8e52b63ead1d51d3c9bc4342d0039526.js" integrity="sha256-o1A2JEEnbsXBZxkmQgSXu45Stj6tHVHTybxDQtADlSY="></script>
+      <script src="/js/coder.min.03b17769f4f91ae35667e1f2a1ca8c16f50562576cf90ff32b3179926914daa5.js" integrity="sha256-A7F3afT5GuNWZ&#43;HyocqMFvUFYlds&#43;Q/zKzF5kmkU2qU="></script>
     
 
     

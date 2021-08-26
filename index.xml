@@ -6,7 +6,26 @@
     <description>Recent content on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Aug 2021 03:10:56 +0100</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:10:53 +0100</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://blommaertsedwin.io/about/about/</link>
+      <pubDate>Fri, 27 Aug 2021 00:10:53 +0100</pubDate>
+      
+      <guid>https://blommaertsedwin.io/about/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G(odot) U(nit) T(esting) and Github Actions</title>
+      <link>https://blommaertsedwin.io/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Aug 2021 00:27:51 +0100</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/my-first-post/</guid>
+      <description>I had previously already added unit tests to my game. There&amp;rsquo;s already a fair few youtube videos and guides out there describing how to do this. What I wasn&amp;rsquo;t aware of is that it is actually particularly easy to setup godot automated testing (GUT) upon pushing code into github using github actions.
+ Log into you github account and create a new action workflow.    Then add the following at the bottom of the blank.</description>
+    </item>
+    
     <item>
       <title>Dungeon Delver</title>
       <link>https://blommaertsedwin.io/projects/dungeon_delver/</link>
