@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blommaerts Edwin</title>
-    <link>http://blommaertsedwin.io/categories/</link>
+    <link>https://blommaertsedwin.io/categories/</link>
     <description>Recent content in Categories on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://blommaertsedwin.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://blommaertsedwin.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
