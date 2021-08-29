@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>me on Blommaerts Edwin</title>
-    <link>https://blommaertsedwin.io/authors/me/</link>
-    <description>Recent content in me on Blommaerts Edwin</description>
+    <title>5e on Blommaerts Edwin</title>
+    <link>https://blommaertsedwin.io/tags/5e/</link>
+    <description>Recent content in 5e on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Aug 2021 00:27:51 +0100</lastBuildDate>
     
-	<atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blommaertsedwin.io/tags/5e/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://blommaertsedwin.io/posts/my-second-post/</guid>
       <description>I thoroughly enjoyed gaming with my friends today. Even though I was pretty tired and had a head full of worries, just hearing them laugh and enjoy the game I was running for them cheered me up. The only thing missing to improve the atmosphere was some music and sound effects. I plan to add this to the next session by using a discord bot and Syrinscape. Additionally, I have a few ideas that I would like to try out in terms of the story.</description>
-    </item>
-    
-    <item>
-      <title>G(odot) U(nit) T(esting) and Github Actions</title>
-      <link>https://blommaertsedwin.io/posts/my-first-post/</link>
-      <pubDate>Thu, 26 Aug 2021 00:27:51 +0100</pubDate>
-      
-      <guid>https://blommaertsedwin.io/posts/my-first-post/</guid>
-      <description>I had previously already added unit tests to my game. There&amp;rsquo;s already a fair few youtube videos and guides out there describing how to do this. What I wasn&amp;rsquo;t aware of is that it is actually particularly easy to setup godot automated testing (GUT) upon pushing code into github using github actions.
- Log into you github account and create a new action workflow.    Then add the following at the bottom of the blank.</description>
     </item>
     
   </channel>

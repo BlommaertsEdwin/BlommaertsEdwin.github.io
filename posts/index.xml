@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:27:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Aug 2021 00:27:51 +0100</lastBuildDate>
     
 	<atom:link href="https://blommaertsedwin.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Playing tabletop RPG with the boys.</title>
+      <link>https://blommaertsedwin.io/posts/my-second-post/</link>
+      <pubDate>Sun, 29 Aug 2021 00:27:51 +0100</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/my-second-post/</guid>
+      <description>I thoroughly enjoyed gaming with my friends today. Even though I was pretty tired and had a head full of worries, just hearing them laugh and enjoy the game I was running for them cheered me up. The only thing missing to improve the atmosphere was some music and sound effects. I plan to add this to the next session by using a discord bot and Syrinscape. Additionally, I have a few ideas that I would like to try out in terms of the story.</description>
+    </item>
     
     <item>
       <title>G(odot) U(nit) T(esting) and Github Actions</title>
