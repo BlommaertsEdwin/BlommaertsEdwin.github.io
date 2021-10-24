@@ -10,28 +10,28 @@
     
 
     <meta name="author" content="Blommaerts Edwin">
-    <meta name="description" content="Small post about figuring out some things while working with Godot, GUT and github actions.">
+    <meta name="description" content="Not expecting much but getting a lot in return.">
     <meta name="keywords" content="blog,developer,personal">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="G(odot) U(nit) T(esting) and Github Actions"/>
-<meta name="twitter:description" content="Small post about figuring out some things while working with Godot, GUT and github actions."/>
+<meta name="twitter:title" content="Very surprised by solo RPG Ironswon."/>
+<meta name="twitter:description" content="Not expecting much but getting a lot in return."/>
 
-    <meta property="og:title" content="G(odot) U(nit) T(esting) and Github Actions" />
-<meta property="og:description" content="Small post about figuring out some things while working with Godot, GUT and github actions." />
+    <meta property="og:title" content="Very surprised by solo RPG Ironswon." />
+<meta property="og:description" content="Not expecting much but getting a lot in return." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://blommaertsedwin.io/posts/my-first-post/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-08-26T00:27:51+01:00" />
-<meta property="article:modified_time" content="2021-08-26T00:27:51+01:00" />
+<meta property="og:url" content="https://blommaertsedwin.io/posts/my-fourth-post/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-10-24T13:30:00+01:00" />
+<meta property="article:modified_time" content="2021-10-24T13:30:00+01:00" />
 
 
 
     <title>
-  G(odot) U(nit) T(esting) and Github Actions · Blommaerts Edwin
+  Very surprised by solo RPG Ironswon. · Blommaerts Edwin
 </title>
 
     
-      <link rel="canonical" href="https://blommaertsedwin.io/posts/my-first-post/">
+      <link rel="canonical" href="https://blommaertsedwin.io/posts/my-fourth-post/">
     
 
     <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -127,8 +127,8 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="https://blommaertsedwin.io/posts/my-first-post/">
-              G(odot) U(nit) T(esting) and Github Actions
+            <a class="title-link" href="https://blommaertsedwin.io/posts/my-fourth-post/">
+              Very surprised by solo RPG Ironswon.
             </a>
           </h1>
         </div>
@@ -136,13 +136,13 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='2021-08-26T00:27:51&#43;01:00'>
-                August 26, 2021
+              <time datetime='2021-10-24T13:30:00&#43;01:00'>
+                October 24, 2021
               </time>
             </span>
             <span class="reading-time">
               <i class="fa fa-clock-o" aria-hidden="true"></i>
-              One-minute read
+              4-minute read
             </span>
           </div>
           <div class="authors">
@@ -152,19 +152,11 @@
           <div class="tags">
   <i class="fa fa-tag" aria-hidden="true"></i>
     <span class="tag">
-      <a href="/tags/godot/">godot</a>
+      <a href="/tags/ironsworn/">Ironsworn</a>
     </span>
       <span class="separator">•</span>
     <span class="tag">
-      <a href="/tags/gut/">gut</a>
-    </span>
-      <span class="separator">•</span>
-    <span class="tag">
-      <a href="/tags/unittesting/">unittesting</a>
-    </span>
-      <span class="separator">•</span>
-    <span class="tag">
-      <a href="/tags/github-action/">github action</a>
+      <a href="/tags/solo-rpg/">solo rpg</a>
     </span></div>
 
         </div>
@@ -172,40 +164,29 @@
 
       <div>
         
-        <p>I had previously already added unit tests to my game. There&rsquo;s already a fair few youtube videos and guides out there describing how to do this. What I wasn&rsquo;t aware of is that it is actually particularly easy to setup godot automated testing (GUT) upon pushing code into github using github actions.</p>
-<ul>
-<li>Log into you github account and create a new action workflow.</li>
-</ul>
-<p><img src="../../images/GithubWorkflowsStepOne.JPG" alt="Step One Github workflow godot unit testing"></p>
-<ul>
-<li>
-<p>Then add the following at the bottom of the blank.yml file.</p>
-<pre><code>  - name: godot-tester
-  # You may pin to the exact commit or the version.
-  # uses: croconut/godot-tester@8138293929bde928c05dde776b66ca50661ff4ee
-  uses: croconut/godot-tester@v2.1a
-  with:
-    # Your Godot version number e.g. 3.2.2
-    version: 3.2.2
-    # Give relative path to your project.godot, if not in top level of repo,
-    # the test runner will search here for your /test directory which 
-    # contains the unit tests.
-    path: ./
-    # Test against mono version? Default: false
-    is-mono: false
-    # How long to spend on importing assets, don't set if testing is not required
-    import-time: 1
-    # How long the test should be run before it's timed out and fails
-    test-timeout: 300
-    # Decimal value for minimum passing score e.g. if 88% of tests pass and minimum-pass is 0.8, then action passes.
-    minimum-pass: 0.99
-</code></pre>
-</li>
-<li>
-<p>Then commit the file and check the action menu.</p>
-</li>
-</ul>
-<p><img src="../../images/GithubWorkflowsStepTwo.JPG" alt="Step Two Github workflow godot unit testing"></p>
+        <p><img src="../../images/IronSworn1.JPG" alt="Image of Roll20 Virtual Tabletop running Ironsworn."></p>
+<h1 id="this-is-the-ironlands">
+  This is the Ironlands
+  <a class="heading-link" href="#this-is-the-ironlands">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>The gods are many; magic is rare and dangerous. Monstrous beasts stalk the wild areas, but they can be tamed. In these lands when one lays their hand on iron and they swear into their soul it becomes a vow of solemn determination treated with the utmost gravity. The Ironsworn make a living of it. Powerful, travelled, and often gifted with magic, they journey as they please, finding those who are seeking help, or perhaps in service to their own needs.</p>
+<h1 id="surprised">
+  Surprised
+  <a class="heading-link" href="#surprised">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>A while ago, I had purchased the Ironsworn RPG books as part of a Kickstarter for Ironsworn Starforged (Ironsworn set in space). I had these books sitting in my library for a while, thinking I&rsquo;d get a few hours and read through them somewhere in the future.</p>
+<p>Now for the more emotionally loaded bit. My partner and I lost our twenty weeks old son Quinn. We were told on our twenty weeks checkup that they couldn&rsquo;t hear a heartbeat. I can tell you that it was the worst day of my life walking out of the hospital. Now I&rsquo;m not posting this for sympathy and, I believe that others around the world will have experienced even more horrible things. But for me, it still is the worst thing that has ever happened. Tinking back on it even brings up emotions.</p>
+<p>What does this have to do with a roleplaying game? To honour Quinn, I decided to make him the protagonist in my Ironsworn adventure. I&rsquo;m not doing this to draw attention or to deal with the grief. Although I sometimes do find myself wondering what kind of a man he would have grown into. I&rsquo;m doing this because I thought it would be a great way of commemorating his name.</p>
+<p>Additionally, I had to stop the Dungeons and Dragons game I was running for a few friends. There are a few reasons why but I will not go into details on that. The silver lining is that I now have time to focus on the Ironsworn project.</p>
+<p>In short, I am blown away by how much I like this system. It does away with the crunchy stats and ability rules that sometimes slow a game down or restrict players in their imagination. It focuses on the roleplay aspect of the game. Every roll comes down to a strong hit, a weak hit or a miss. A strong hit would mean you succeed at what you want to do and maybe even gain some benefits. A weak hit means you succeed as well. However, there&rsquo;s some consequence, drawback or complication to deal with. And a miss, that means you failed and have to deal with the consequences of that. The game drives the story forwards in unexpected ways and pushes the player to use his imagination. A variety of tables to roll on allows for unforeseen events. A map gives you the lay of the land. A game mechanic called truths sets up the world you&rsquo;re in with knowledge around civilisations, religion, economy, culture and more.</p>
+<p><img src="../../images/IronSworn2.JPG" alt="Image of Roll20 Virtual Tabletop running Ironsworn."></p>
+<p>When I started playing, I got drawn into this world I had created. I started adding more details the further my game session went. I even found myself wondering about social and moral dilemmas thrust upon me by a few rolls on some tables. The hardest part is not to give in to making life easier for your character. Let the dice decide and work with them. That is easier said than done when you&rsquo;re a fan of your character.
+I&rsquo;ve found a ton of resources and a helpful discord server. I&rsquo;ll add those on the project page when I get around to writing it. My idea is to share Quinn&rsquo;s adventures with whoever wants to read them.
+So far, I have written 3844 words describing Quinn&rsquo;s adventure. I&rsquo;m not a writer by any means. I&rsquo;m sure I&rsquo;ll need to get it proofed and spell checked. English isn&rsquo;t my first language, so I need to put in additional effort.</p>
 
       </div>
 
