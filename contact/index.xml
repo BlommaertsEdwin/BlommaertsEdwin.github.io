@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Blommaerts Edwin</title>
-    <link>http://blommaertsedwin.io/contact/</link>
+    <link>https://blommaertsedwin.io/contact/</link>
     <description>Recent content in Contacts on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Aug 2021 03:27:23 +0100</lastBuildDate>
     
-	<atom:link href="http://blommaertsedwin.io/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blommaertsedwin.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact_me</title>
-      <link>http://blommaertsedwin.io/contact/contact_me/</link>
+      <link>https://blommaertsedwin.io/contact/contact_me/</link>
       <pubDate>Sat, 14 Aug 2021 03:27:23 +0100</pubDate>
       
-      <guid>http://blommaertsedwin.io/contact/contact_me/</guid>
+      <guid>https://blommaertsedwin.io/contact/contact_me/</guid>
       <description>WIP</description>
     </item>
     
