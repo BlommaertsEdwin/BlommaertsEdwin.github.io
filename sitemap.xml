@@ -1,133 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blommaertsedwin.io/authors/</loc>
     <lastmod>2022-01-04T17:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blommaertsedwin.io/</loc>
+    <lastmod>2022-01-04T17:40:21+00:00</lastmod>
+  </url><url>
     <loc>https://blommaertsedwin.io/authors/me/</loc>
     <lastmod>2022-01-04T17:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/posts/my-third-post/</loc>
     <lastmod>2022-01-04T17:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/posts/</loc>
     <lastmod>2022-01-04T17:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/</loc>
     <lastmod>2022-01-04T17:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/the-new-year/</loc>
     <lastmod>2022-01-04T17:40:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/5e/</loc>
     <lastmod>2021-08-29T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/curseofstrahd/</loc>
     <lastmod>2021-08-29T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/dd/</loc>
     <lastmod>2021-08-29T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/posts/my-second-post/</loc>
     <lastmod>2021-08-29T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/about/</loc>
     <lastmod>2021-08-27T00:13:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blommaertsedwin.io/</loc>
-    <lastmod>2021-08-27T00:13:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/about/about/</loc>
     <lastmod>2021-08-27T00:10:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/about/</loc>
     <lastmod>2021-08-27T00:10:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/posts/my-first-post/</loc>
     <lastmod>2021-08-26T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/github-action/</loc>
     <lastmod>2021-08-26T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/godot/</loc>
     <lastmod>2021-08-26T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/gut/</loc>
     <lastmod>2021-08-26T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/tags/unittesting/</loc>
     <lastmod>2021-08-26T00:27:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/contact/contact_me/</loc>
     <lastmod>2021-08-14T03:27:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/contact/</loc>
     <lastmod>2021-08-14T03:27:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/projects/dungeon_delver/</loc>
     <lastmod>2021-08-14T03:10:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/projects/</loc>
     <lastmod>2021-08-14T03:10:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/projects/dnd_curse_of_strahd/</loc>
     <lastmod>2021-07-24T03:10:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blommaertsedwin.io/series/</loc>
   </url>
-  
 </urlset>

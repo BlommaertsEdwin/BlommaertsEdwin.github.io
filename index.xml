@@ -6,11 +6,7 @@
     <description>Recent content on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Aug 2021 00:13:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Jan 2022 17:40:21 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New year, new beginings</title>
       <link>https://blommaertsedwin.io/posts/my-third-post/</link>
@@ -73,7 +69,7 @@
       <pubDate>Sat, 14 Aug 2021 03:10:56 +0100</pubDate>
       
       <guid>https://blommaertsedwin.io/projects/dungeon_delver/</guid>
-      <description>What is Dungeon Delver? Some time ago I was introduced to Godot by a colleague. Godot is an Open Source game engine with the built-in scripting language GDscript being very similar to Python. Over a weekend, I decided to download the engine and give it a go. I enjoyed how the engine structures components and how there is a friendly community surrounding it. It wasn&amp;rsquo;t long before I had the idea of building a top-down action role-playing game.</description>
+      <description>What is Dungeon Delver?    Some time ago I was introduced to Godot by a colleague. Godot is an Open Source game engine with the built-in scripting language GDscript being very similar to Python. Over a weekend, I decided to download the engine and give it a go. I enjoyed how the engine structures components and how there is a friendly community surrounding it. It wasn&amp;rsquo;t long before I had the idea of building a top-down action role-playing game.</description>
     </item>
     
     <item>
@@ -82,7 +78,7 @@
       <pubDate>Sat, 24 Jul 2021 03:10:56 +0100</pubDate>
       
       <guid>https://blommaertsedwin.io/projects/dnd_curse_of_strahd/</guid>
-      <description>What is Dungeons &amp;amp; Dragons: Curse Of Strahd? It is a D&amp;amp;D tabletop RPG game, it is me and some long terms friends who roll some dice and act out various characters going through an adventure together. We do stupid and silly stuff, drink a few beers and enjoy ourselves. We decided to record it and just share it with everyone interested. I know there&amp;rsquo;s still a taboo and stigma that hangs around playing these types of games.</description>
+      <description>What is Dungeons &amp;amp; Dragons: Curse Of Strahd?    It is a D&amp;amp;D tabletop RPG game, it is me and some long terms friends who roll some dice and act out various characters going through an adventure together. We do stupid and silly stuff, drink a few beers and enjoy ourselves. We decided to record it and just share it with everyone interested. I know there&amp;rsquo;s still a taboo and stigma that hangs around playing these types of games.</description>
     </item>
     
   </channel>
