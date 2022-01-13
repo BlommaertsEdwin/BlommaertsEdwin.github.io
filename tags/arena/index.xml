@@ -6,7 +6,18 @@
     <description>Recent content in Arena on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Jan 2022 02:21:32 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/tags/arena/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 00:20:49 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/tags/arena/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I created a Tree!</title>
+      <link>https://blommaertsedwin.io/posts/my-sixth-post/</link>
+      <pubDate>Thu, 13 Jan 2022 00:20:49 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/my-sixth-post/</guid>
+      <description>I was tired of seeing my little man running around stark naked without anywhere to hide behind. So I created a tree for him. Using Y-sort, collision shapes and static bodies I made it possible for him to go behind the tree but not go through it.
+Behold my creation!
+  </description>
+    </item>
+    
     <item>
       <title>Added a start menu placeholder to my game</title>
       <link>https://blommaertsedwin.io/posts/my-fifth-post/</link>
