@@ -6,14 +6,23 @@
     <description>Recent content on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jan 2022 00:20:49 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 02:26:10 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pervy man needs more stuff to hide behind</title>
+      <link>https://blommaertsedwin.io/posts/my-seventh-post/</link>
+      <pubDate>Sat, 15 Jan 2022 02:26:10 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/my-seventh-post/</guid>
+      <description>Using my partner&amp;rsquo;s Wacom Bamboo drawing pad, I went to work creating some bushes and a palisade, also known as a stake wall. At first, I used GIMP, and would make a drawing and then convert it to pixel art. That did not work well as the Jpeg came out all blurred. I then decided to use a program I had purchased a long time ago called Aseprite. After watching a few Youtube videos and picking up some hints and tips.</description>
+    </item>
+    
     <item>
       <title>I created a Tree!</title>
       <link>https://blommaertsedwin.io/posts/my-sixth-post/</link>
       <pubDate>Thu, 13 Jan 2022 00:20:49 +0000</pubDate>
       
       <guid>https://blommaertsedwin.io/posts/my-sixth-post/</guid>
-      <description>I was tired of seeing my little man running around stark naked without anywhere to hide behind. So I created a tree for him. Using Y-sort, collision shapes and static bodies I made it possible for him to go behind the tree but not go through it.
+      <description>I was tired of seeing my little man running around stark naked without anywhere to hide behind. So I created a tree for him. Using Y-sort, collision shapes, and static bodies, I made it possible for him to go behind the tree but not go through it.
 Behold my creation!
   </description>
     </item>
