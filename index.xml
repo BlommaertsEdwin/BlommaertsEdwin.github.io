@@ -58,15 +58,6 @@ Behold my creation!
     
     <item>
       <title>About</title>
-      <link>https://blommaertsedwin.io/about/</link>
-      <pubDate>Fri, 27 Aug 2021 00:13:18 +0100</pubDate>
-      
-      <guid>https://blommaertsedwin.io/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
       <link>https://blommaertsedwin.io/about/about/</link>
       <pubDate>Fri, 27 Aug 2021 00:10:53 +0100</pubDate>
       
@@ -82,15 +73,6 @@ Behold my creation!
       <guid>https://blommaertsedwin.io/posts/my-first-post/</guid>
       <description>I had previously already added unit tests to my game. There&amp;rsquo;s already a fair few youtube videos and guides out there describing how to do this. What I wasn&amp;rsquo;t aware of is that it is actually particularly easy to setup godot automated testing (GUT) upon pushing code into github using github actions.
  Log into you github account and create a new action workflow.    Then add the following at the bottom of the blank.</description>
-    </item>
-    
-    <item>
-      <title>Contact_me</title>
-      <link>https://blommaertsedwin.io/contact/contact_me/</link>
-      <pubDate>Sat, 14 Aug 2021 03:27:23 +0100</pubDate>
-      
-      <guid>https://blommaertsedwin.io/contact/contact_me/</guid>
-      <description>WIP</description>
     </item>
     
     <item>
