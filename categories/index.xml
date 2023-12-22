@@ -5,6 +5,25 @@
     <link>https://blommaertsedwin.io/categories/</link>
     <description>Recent content in Categories on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://blommaertsedwin.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Dec 2023 22:27:50 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life</title>
+      <link>https://blommaertsedwin.io/categories/life/</link>
+      <pubDate>Thu, 21 Dec 2023 22:27:50 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The New year</title>
+      <link>https://blommaertsedwin.io/categories/the-new-year/</link>
+      <pubDate>Thu, 21 Dec 2023 22:27:50 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/categories/the-new-year/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
