@@ -6,7 +6,27 @@
     <description>Recent content in me on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 22:08:04 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 15:53:04 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Git plugin for Godot4 on Linux  and animating a character</title>
+      <link>https://blommaertsedwin.io/posts/makesomeprogress/</link>
+      <pubDate>Sat, 06 Jan 2024 15:53:04 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/makesomeprogress/</guid>
+      <description>Right, time to crack on with this characters. I&amp;rsquo;ve loaded the sprite sheet into the Sprite2D node by dragging it over the Texture field. Now it&amp;rsquo;s a matter of figuring out how many H- and Vframes are in the animation, additionally, I need to figure out the frame coordinates.
+I set the Scale to x 1 and y 1 but to do this I had to unlink them, then set the values then relink them again.</description>
+    </item>
+    
+    <item>
+      <title>Picking up Godot4 again</title>
+      <link>https://blommaertsedwin.io/posts/pickingupagain/</link>
+      <pubDate>Sat, 06 Jan 2024 01:32:13 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/pickingupagain/</guid>
+      <description>Starting over    New beginings    With the help of my previously written code, I&amp;rsquo;m starting over. I&amp;rsquo;m not going to just take my old project and build on that. I think it&amp;rsquo;s better to pick the good bits out of what I&amp;rsquo;ve written already. I&amp;rsquo;d like to make it more modular so I can share this with other communities.
+Character    Let&amp;rsquo;s start with the main character and since the main character is called Little Death let&amp;rsquo;s make it a skeleton.</description>
+    </item>
+    
     <item>
       <title>Live review: Lord Of The Lost, 23-09-23, London, UK</title>
       <link>https://blommaertsedwin.io/posts/lordofthelost/</link>
