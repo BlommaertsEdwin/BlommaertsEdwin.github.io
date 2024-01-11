@@ -6,7 +6,17 @@
     <description>Recent content in me on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 15:53:04 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 00:04:17 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State Charts and movement make a nice combo.</title>
+      <link>https://blommaertsedwin.io/posts/animatethecharacterparttwo/</link>
+      <pubDate>Sun, 07 Jan 2024 00:04:17 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/animatethecharacterparttwo/</guid>
+      <description>Cracking on with the game. Looks like the pre-generated code for a CharacterBody2d is actually for a side scroller. I think I&amp;rsquo;ll use a state machine for the player character so we can control animations or other game functions by looking at what state the character is in.
+I&amp;rsquo;ve done some research since my last post. I&amp;rsquo;ve come across this StateChart plugin for Godot. I thought it might be handy for my players and enemies.</description>
+    </item>
+    
     <item>
       <title>Installing Git plugin for Godot4 on Linux and animating a character</title>
       <link>https://blommaertsedwin.io/posts/makesomeprogress/</link>

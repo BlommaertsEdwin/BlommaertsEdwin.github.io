@@ -6,7 +6,27 @@
     <description>Recent content in godot on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:27:51 +0100</lastBuildDate><atom:link href="https://blommaertsedwin.io/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 00:04:17 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State Charts and movement make a nice combo.</title>
+      <link>https://blommaertsedwin.io/posts/animatethecharacterparttwo/</link>
+      <pubDate>Sun, 07 Jan 2024 00:04:17 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/animatethecharacterparttwo/</guid>
+      <description>Cracking on with the game. Looks like the pre-generated code for a CharacterBody2d is actually for a side scroller. I think I&amp;rsquo;ll use a state machine for the player character so we can control animations or other game functions by looking at what state the character is in.
+I&amp;rsquo;ve done some research since my last post. I&amp;rsquo;ve come across this StateChart plugin for Godot. I thought it might be handy for my players and enemies.</description>
+    </item>
+    
+    <item>
+      <title>Installing Git plugin for Godot4 on Linux and animating a character</title>
+      <link>https://blommaertsedwin.io/posts/makesomeprogress/</link>
+      <pubDate>Sat, 06 Jan 2024 15:53:04 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/makesomeprogress/</guid>
+      <description>Right, time to crack on with this characters. I&amp;rsquo;ve loaded the sprite sheet into the Sprite2D node by dragging it over the Texture field. Now it&amp;rsquo;s a matter of figuring out how many H- and Vframes are in the animation, additionally, I need to figure out the frame coordinates.
+I set the Scale to x 1 and y 1 but to do this I had to unlink them, then set the values then relink them again.</description>
+    </item>
+    
     <item>
       <title>G(odot) U(nit) T(esting) and Github Actions</title>
       <link>https://blommaertsedwin.io/posts/my-first-post/</link>
