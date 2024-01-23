@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Wed, 17 Jan 2024 21:48:00 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Adding the attacking animation</title>
+      <link>https://blommaertsedwin.io/posts/addingattacking/</link>
+      <pubDate>Wed, 17 Jan 2024 21:48:00 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/addingattacking/</guid>
+      <description>While listening to Sir Patrick Steward divulge his memoir on Spotify. I hack away at my silly game.
+Firstly I need to key in the attacking animation for each direction. This was fairly easy as it just meant adjusting hr Frame Coords. Next, I&amp;rsquo;m going to hook these animations in the Left Mouse button click. which again was fairly easy as I captured the input and gave a signal to the State Machine to travel to the attack state.</description>
+    </item>
+    
+    <item>
       <title>Lets go with some more integrating of the animations</title>
       <link>https://blommaertsedwin.io/posts/somemoregamedev/</link>
       <pubDate>Wed, 17 Jan 2024 21:48:00 +0000</pubDate>
