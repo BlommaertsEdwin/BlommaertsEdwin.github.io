@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blommaertsedwin.io/posts/inventory/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
     <loc>https://blommaertsedwin.io/authors/</loc>
-    <lastmod>2024-01-30T15:38:21+00:00</lastmod>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/</loc>
-    <lastmod>2024-01-30T15:38:21+00:00</lastmod>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/categories/</loc>
-    <lastmod>2024-01-30T15:38:21+00:00</lastmod>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/tags/game-dev/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/game-dev/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/tags/godot/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/authors/me/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/posts/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/tags/</loc>
+    <lastmod>2024-02-03T00:55:22+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/categories/life/</loc>
     <lastmod>2024-01-30T15:38:21+00:00</lastmod>
   </url><url>
-    <loc>https://blommaertsedwin.io/authors/me/</loc>
-    <lastmod>2024-01-30T15:38:21+00:00</lastmod>
-  </url><url>
     <loc>https://blommaertsedwin.io/posts/pancakes/</loc>
-    <lastmod>2024-01-30T15:38:21+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/posts/</loc>
     <lastmod>2024-01-30T15:38:21+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/posts/popedecorn/</loc>
@@ -29,19 +44,7 @@
     <loc>https://blommaertsedwin.io/posts/addingattacking/</loc>
     <lastmod>2024-01-17T21:48:00+00:00</lastmod>
   </url><url>
-    <loc>https://blommaertsedwin.io/tags/game-dev/</loc>
-    <lastmod>2024-01-17T21:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/categories/game-dev/</loc>
-    <lastmod>2024-01-17T21:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/tags/godot/</loc>
-    <lastmod>2024-01-17T21:48:00+00:00</lastmod>
-  </url><url>
     <loc>https://blommaertsedwin.io/posts/somemoregamedev/</loc>
-    <lastmod>2024-01-17T21:48:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/tags/</loc>
     <lastmod>2024-01-17T21:48:00+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/posts/animatethecharacterparttwo/</loc>

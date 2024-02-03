@@ -6,7 +6,17 @@
     <description>Recent content in me on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2024 15:38:21 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 00:55:22 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/authors/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding inventory and item stacking</title>
+      <link>https://blommaertsedwin.io/posts/inventory/</link>
+      <pubDate>Sat, 03 Feb 2024 00:55:22 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/inventory/</guid>
+      <description>After very little thought I went with Notion.so for my dev board. I&amp;rsquo;ve made the task Kanban board public so you can see but not edit it.
+Today I&amp;rsquo;ve added an inventory screen with stackable items and item count. In the small video, you can see the max stack count is 5. So items can only be stacked up to 5 before a new stack is added to the inventory screen.</description>
+    </item>
+    
     <item>
       <title>Pancakes (With honey and sliced apples)</title>
       <link>https://blommaertsedwin.io/posts/pancakes/</link>
