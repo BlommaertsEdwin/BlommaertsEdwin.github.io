@@ -6,7 +6,17 @@
     <description>Recent content on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Feb 2024 00:55:22 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 22:20:37 +0000</lastBuildDate><atom:link href="https://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI Building and resource vs equipment data class</title>
+      <link>https://blommaertsedwin.io/posts/attack/</link>
+      <pubDate>Sat, 03 Feb 2024 22:20:37 +0000</pubDate>
+      
+      <guid>https://blommaertsedwin.io/posts/attack/</guid>
+      <description>Started out wanting to add the attack mechanics but wound up switching to UI building. Specifically, building a character sheet with drag and drop for equipment.
+Spend most of the time researching the best solution to build one.</description>
+    </item>
+    
     <item>
       <title>Adding inventory and item stacking</title>
       <link>https://blommaertsedwin.io/posts/inventory/</link>
