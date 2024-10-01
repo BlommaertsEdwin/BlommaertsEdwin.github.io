@@ -2,8 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blommaertsedwin.io/authors/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
     <loc>https://blommaertsedwin.io/</loc>
-    <lastmod>2024-09-27T22:14:36+01:00</lastmod>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/cancer-bats/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/posts/cannibalcorpse/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/cannibal-corpse/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/gandalf/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/life/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/authors/me/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/metal-heads/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/municipal-waste/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/music/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/posts/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/stansted/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
+  </url><url>
+    <loc>https://blommaertsedwin.io/categories/venom/</loc>
+    <lastmod>2024-10-01T23:17:01+01:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/projects/countdown/</loc>
     <lastmod>2024-09-27T22:14:36+01:00</lastmod>
@@ -12,9 +54,6 @@
     <lastmod>2024-09-27T22:14:36+01:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/posts/life-and-such/</loc>
-    <lastmod>2024-04-19T22:23:10+01:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/posts/</loc>
     <lastmod>2024-04-19T22:23:10+01:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/posts/life/</loc>
@@ -26,22 +65,10 @@
     <loc>https://blommaertsedwin.io/posts/nirvana/</loc>
     <lastmod>2024-02-24T22:26:06+00:00</lastmod>
   </url><url>
-    <loc>https://blommaertsedwin.io/authors/</loc>
-    <lastmod>2024-02-18T21:25:42+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/categories/</loc>
-    <lastmod>2024-02-18T21:25:42+00:00</lastmod>
-  </url><url>
     <loc>https://blommaertsedwin.io/categories/history/</loc>
     <lastmod>2024-02-18T21:25:42+00:00</lastmod>
   </url><url>
-    <loc>https://blommaertsedwin.io/categories/life/</loc>
-    <lastmod>2024-02-18T21:25:42+00:00</lastmod>
-  </url><url>
     <loc>https://blommaertsedwin.io/posts/30kwalk/</loc>
-    <lastmod>2024-02-18T21:25:42+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/authors/me/</loc>
     <lastmod>2024-02-18T21:25:42+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/categories/nature/</loc>
@@ -93,9 +120,6 @@
     <lastmod>2024-01-03T22:08:04+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/categories/lord-of-the-lost/</loc>
-    <lastmod>2024-01-03T22:08:04+00:00</lastmod>
-  </url><url>
-    <loc>https://blommaertsedwin.io/categories/music/</loc>
     <lastmod>2024-01-03T22:08:04+00:00</lastmod>
   </url><url>
     <loc>https://blommaertsedwin.io/posts/itisthenewyear/</loc>
